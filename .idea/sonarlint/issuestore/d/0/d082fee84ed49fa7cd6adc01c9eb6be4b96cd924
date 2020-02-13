@@ -1,0 +1,7 @@
+
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(´ûè¸ùÿÿÿÿ8ß‚—óƒ.
+rsquid:S1215("TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8ü«˜óƒ.
+U
+squid:S106*"9Replace this use of System.out or System.err by a logger.(ß¤8ü«˜óƒ.
+ysquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‰õÏ8ÄÙíóƒ.
